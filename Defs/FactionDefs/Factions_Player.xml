@@ -8,7 +8,7 @@
     <isPlayer>true</isPlayer>
     <basicMemberKind>Colonist</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
-    <factionBaseNameMaker>NamerFactionBasePlayerColony</factionBaseNameMaker>
+    <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
     <techLevel>Industrial</techLevel>
     <backstoryCategory>Civil</backstoryCategory>
     <expandingIconTexture>World/WorldObjects/Expanding/Town</expandingIconTexture>
